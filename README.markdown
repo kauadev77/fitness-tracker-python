@@ -84,5 +84,5 @@ Concluído, com funcionalidades robustas e validação de entradas. Futuras melh
 
 ## Contribuidores
 
-- kauadev77
-- Karrarass
+- [@kauadev77](https://github.com/kauadev77)
+- [@Karrarass](https://github.com/Karrarass)
