@@ -86,7 +86,3 @@ Concluído, com funcionalidades robustas e validação de entradas. Futuras melh
 
 - kauadev77
 - Karrarass
-
-## Licença
-
-MIT License
